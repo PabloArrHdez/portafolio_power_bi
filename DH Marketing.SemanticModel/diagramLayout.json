@@ -1,0 +1,131 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 0,
+        "y": 4.838709677419355
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 551.61290322580646,
+            "y": 544.70967741935465
+          },
+          "nodeIndex": "Campañas",
+          "nodeLineageTag": "400f0b16-74a5-4fc6-b0d4-e8898c728597",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 2,
+          "expandedHeight": 248
+        },
+        {
+          "location": {
+            "x": 545.29032258064512,
+            "y": 32.516129032257993
+          },
+          "nodeIndex": "Clientes",
+          "nodeLineageTag": "fe6a630c-ae70-44b5-b77c-2a398a962289",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 3,
+          "expandedHeight": 224
+        },
+        {
+          "location": {
+            "x": 832.51612903225816,
+            "y": 38.258064516128968
+          },
+          "nodeIndex": "Gastos_productos",
+          "nodeLineageTag": "ae494874-9b23-4c5a-a103-7f86963e4c39",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 4,
+          "expandedHeight": 248
+        },
+        {
+          "location": {
+            "x": 779.41935483870975,
+            "y": 302.38709677419348
+          },
+          "nodeIndex": "General",
+          "nodeLineageTag": "0c3cf782-558e-4137-9305-62f3928cfd95",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 5
+        },
+        {
+          "location": {
+            "x": 1236.0000000000002,
+            "y": 314.38709677419348
+          },
+          "nodeIndex": "Incidencias",
+          "nodeLineageTag": "fdff0622-d611-4d28-87e4-bab8104b99ee",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 6
+        },
+        {
+          "location": {
+            "x": 960.32258064516122,
+            "y": 550.45161290322562
+          },
+          "nodeIndex": "Número_compras",
+          "nodeLineageTag": "5bf6f8a2-13e3-42f6-8e35-12deee177fec",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 7,
+          "expandedHeight": 272
+        },
+        {
+          "location": {
+            "x": 145.677419354839,
+            "y": 269.64516129032251
+          },
+          "nodeIndex": "Calendario",
+          "nodeLineageTag": "c2e5e729-ba10-433c-962d-9b8d465ba318",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 1,
+          "expandedHeight": 200
+        },
+        {
+          "location": {
+            "x": 1314.6451612903227,
+            "y": 42.774193548387046
+          },
+          "nodeIndex": "Medidas",
+          "nodeLineageTag": "d08712e2-4ce2-48ea-a7ea-d0bab3c4761b",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 8
+        }
+      ],
+      "name": "Todas las tablas",
+      "zoomValue": 62,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "Todas las tablas",
+  "defaultDiagram": "Todas las tablas"
+}
